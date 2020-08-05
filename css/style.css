@@ -34,7 +34,7 @@ p {
     height: 618px;
 }
 .mole {
-    background-image: url(images/mole.png);
+    background-image: url(../images/mole.png);
     background-size: cover;
     cursor: pointer;
 }
